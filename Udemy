@@ -25,5 +25,13 @@ rm <filename> = to delete files
 rm <foldername> -r = to delete folders
 rm * -r = delete all folder in the file
 
+sudo ifconfig - if will give us local IP address, MAC address (after ether)
+sudo su - it will run all commands as admin
+exit - to exit from admin commands
 
+INFORMATION GATHERING
+ping <websitename>
+nslookup <websitename>
+whois <websitename>
+ipinfo.info - open in firefox
 
