@@ -6,3 +6,24 @@ ping google.com > ctrl + c
 
 vb setting > network > attached to > Bridged adaptor > sudo ifconfig
 attached to > NAT Network > tools > prefreance
+
+Terminal Commands:
+pwd - current directory / Print Working Directory
+cd <path>/ - to change path / Change Directory
+cd .. - it will go one directory back
+ls - it will provide all file names / List Directory
+
+touch <filename> - it will create new blank file
+cat <filename> - it will read file
+echo <text> ><filename> - it will read file
+nano <filename / can also create new file>
+nano <file3.py> >>> Python3 file3.py
+mkdir <directory name> - it will create directory / make directory
+mv <filename> <foldername> = to move files
+cp <filename> <foldername> = to copy files (cp file3.py /home/vipul/Desktop/newfilename.py)
+rm <filename> = to delete files
+rm <foldername> -r = to delete folders
+rm * -r = delete all folder in the file
+
+
+
