@@ -35,3 +35,7 @@ nslookup <websitename>
 whois <websitename>
 ipinfo.info - open in firefox
 
+whatweb
+whatweb --help
+whatweb <websitename>
+whatweb <websitename> -v
